@@ -8,7 +8,7 @@
 
 namespace DotMailer\Api\DataTypes;
 
-class Null implements IDataType
+class DataNull implements IDataType
 {
 
     public function toJson()
