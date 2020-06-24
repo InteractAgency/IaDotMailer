@@ -1,3 +1,7 @@
+**Jun 24, 2020
+
+- Fixed `Reserved Null Class Name` for compatibility with PHP 7*
+
 # v1.1.3
 
 **Jul 01, 2016**
