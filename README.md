@@ -1,5 +1,7 @@
 # dotMailer API v2 PHP client
 
+Forked from https://github.com/romanpitak/dotMailer-API-v2-PHP-client
+
 [![Latest Stable Version](https://img.shields.io/packagist/v/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
 [![Total Downloads](https://img.shields.io/packagist/dt/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
 [![License](https://img.shields.io/packagist/l/romanpitak/dotmailer-api-v2-client.svg)](https://packagist.org/packages/romanpitak/dotmailer-api-v2-client)
