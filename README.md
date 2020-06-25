@@ -20,6 +20,18 @@ Type hinting support for objects and resources (not yet for arrays).
 
 The best way to install is to use the [Composer](https://getcomposer.org/) dependency manager.
 
+Add the repository in your composer.json :
+
+```
+	"repositories": [
+      {
+        "type": "vcs",
+        "no-api": true,
+        "url": "git@github.com:InteractAgency/IaDotMailer.git"
+      }
+	],
+```
+
 ```
 composer require interact/iadotmailer
 ```
