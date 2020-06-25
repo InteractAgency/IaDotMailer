@@ -21,7 +21,7 @@ Type hinting support for objects and resources (not yet for arrays).
 The best way to install is to use the [Composer](https://getcomposer.org/) dependency manager.
 
 ```
-php composer.phar require romanpitak/dotmailer-api-v2-client
+composer require interact/iadotmailer
 ```
 
 ## Usage
